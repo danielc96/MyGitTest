@@ -1,3 +1,7 @@
 hello!
 testing
+<<<<<<< HEAD
 test line 3
+=======
+This is my bracnh test
+>>>>>>> 9f34fa7 (This is my commit)
